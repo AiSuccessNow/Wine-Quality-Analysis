@@ -49,7 +49,7 @@ If more time were available, future research could focus on:
 - Explore the physiochemical makeup of specifice types of wines, for example; White Zinfandel, Sauvignon Blanc, Cabernet Sauvignon, and Pinot Noir.
 
 ![Red Wine Components Contribution by Percentages](red_wine_components_percentages.png)
-
+![White Wine Components Contribution by Percentages](white_wine_components_percentages1.png)
 
 ## References
 1. UCI Machine Learning Repository. (2009). Wine Quality Dataset. Retrieved from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Wine+Quality).
