@@ -73,7 +73,7 @@ If more time were available, future research we could focus on:
 - Explore how different climates around the world impact the fixed acidity in wine.
 - Investigating the effects of aging on various wine attributes.
 - Research the financial information on the different wine types.
-- Explore the physiochemical makeup of specifice types of wines, for example; White Zinfandel, Sauvignon Blanc, Cabernet Sauvignon, and Pinot Noir.
+- Explore the physiochemical makeup of specific types of wines, for example; White Zinfandel, Sauvignon Blanc, Cabernet Sauvignon, and Pinot Noir.
 
 ## References
 1. UCI Machine Learning Repository. (2009). Wine Quality Dataset. Retrieved from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Wine+Quality).
