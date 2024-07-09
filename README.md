@@ -68,7 +68,7 @@ High-quality wines typically exhibit a well-balanced combination of acidity, alc
 ![White Wine Components Contribution by Percentages](white_wine_components_percentages1.png)
 
 ### Future Research
-If more time were available, future research could focus on:
+If more time were available, future research we could focus on:
 - Analyzing the impact of different grape varieties on wine quality.
 - Explore how different climates around the world impact the fixed acidity in wine.
 - Investigating the effects of aging on various wine attributes.
