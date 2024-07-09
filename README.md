@@ -39,8 +39,8 @@ Red wines tends to have higher alcohol content compared to white wines.
 ## Results and Conclusions
 High-quality wines typically exhibit a well-balanced combination of acidity, alcohol, and residual sugar. Fixed acidity and citric acid are crucial for providing structure and freshness, while sulphates and sulfur dioxide help maintain stability and prevent spoilage.
 
-![White Wine Components Contribution by Percentage](white_wine_contribution_by_percentage_.png)
-![Red Wine Components Contribution by Percentages](red_wine_contribution_by_percentages.png)
+![White Wine Components Contribution by Percentage](white_wine_components_percentages.png)
+![Red Wine Components Contribution by Percentages](red_wine_components_percentages.png)
 
 ### Future Research
 If more time were available, future research could focus on:
