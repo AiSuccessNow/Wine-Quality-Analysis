@@ -49,6 +49,7 @@ If more time were available, future research could focus on:
 - Explore the physiochemical makeup of specifice types of wines, for example; White Zinfandel, Sauvignon Blanc, Cabernet Sauvignon, and Pinot Noir.
 
 ![Red Wine Components Contribution by Percentages](red_wine_components_percentages.png)
+
 ![White Wine Components Contribution by Percentages](white_wine_components_percentages1.png)
 
 ## References
