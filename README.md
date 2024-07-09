@@ -35,7 +35,7 @@ Grapes make wine acidic. For wine to have the complexity of favours and composit
 ### Alcohol
 Contributes to the wine’s body and overall quality. Higher alcohol content is generally associated with higher quality wines.
 Red wines tends to have higher alcohol content compared to white wines. 
-![Visualization of White Wine Alcohol Content vs Quality](white_wine_alcohol_content_vs_quality.PNG)
+![White Wine Alcohol Content vs Quality](white_wine_alcohol_content_vs_quality.PNG)
 
 ## Results and Conclusions
 High-quality wines typically exhibit a well-balanced combination of acidity, alcohol, and residual sugar. Fixed acidity and citric acid are crucial for providing structure and freshness, while sulphates and sulfur dioxide help maintain stability and prevent spoilage.
@@ -48,6 +48,7 @@ If more time were available, future research could focus on:
 - Analyzing the impact of different grape varieties on wine quality.
 - Explore how different climates around the world impact the fixed acidity in wine.
 - Investigating the effects of aging on various wine attributes.
+- Research the financial information on the different wine types.
 - Explore the physiochemical makeup of specifice types of wines, for example; White Zinfandel, Sauvignon Blanc, Cabernet Sauvignon, and Pinot Noir.
 
 ## References
