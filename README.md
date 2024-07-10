@@ -1,9 +1,9 @@
 # **Wine Quality Analysis**
 
 ## Introduction
-A wine quality dataset was used to provide the framework for our assignment. The dataset contains information about red and white Vinho Verde wine samples from Northern Portugal. The data models the quality of wine based on physiochemical tests.
+A wine quality dataset was used to provide the framework for our project. The dataset contains information about red and white Vinho Verde wine samples from Northern Portugal. The data models the quality of wine based on physiochemical tests.
 
-Our focus for this assignment was to take the fundamental elements provided within the dataset and present it to our audience as if we were a winemakers. Collectively, we researched which factors contribute to high-quality wine and created visualizations based on our findings. Understanding these factors provided our group with some of the basic knowledge required to sell high-quality wine.
+Our focus for this project was to take the fundamental elements provided within the dataset and present it to our audience as if we were a winemakers. Collectively, we researched which factors contribute to high-quality wine and created visualizations based on our findings. Understanding these factors provided our group with some of the basic knowledge required to sell high-quality wine.
 
 ## Factors Analyzed
 The following are the factors that we focused on: fixed acidity, volatile acidity, citric acid, sulphates, chlorides, residual sugar, pH, and alcohol.
