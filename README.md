@@ -3,12 +3,12 @@
 ## Introduction
 A wine quality dataset was used to provide the framework for our project. The dataset contains information about red and white Vinho Verde wine samples from Northern Portugal. The data models the quality of wine based on physiochemical tests.
 
-This analysis focused on leveraging the fundamental elements provided within the dataset and presenting them to potential winemakers. Collectively, we researched which factors contribute to high-quality wine and created visualizations based on our findings. Understanding these factors provided some basic knowledge required to sell high-quality wine.
+This analysis focused on leveraging the fundamental elements provided within the dataset and presenting them to potential winemakers. A thorough investigation was conducted into the factors contributing to high-quality wine and developed visualizations to illustrate these findings. Gaining insights into these factors has equipped us with the fundamental knowledge to provide insights into high-quality wine.
 
 ## Factors Analyzed
 The following factors focused on: fixed acidity, volatile acidity, citric acid, sulphates, chlorides, residual sugar, pH, and alcohol.
 
-The analysis focuses on the acidity contents of wine since acids contribute to the overall taste. The wine's acidity is directly correlated with pH, stability and colour. 
+The analysis focused on the acidity contents of wine since acids contribute to the overall taste. Acidity in wine has a strong relationship to pH, stability, and color. 
 
 ### Fixed Acidity
 - Average: 7.22
@@ -20,13 +20,13 @@ This refers to tartaric acid, the primary acid in wine. It contributes to the wi
 - Mean: 0.34
 - Range: 0.08 to 1.58
 - Description:
-Measures gaseous acids impacting taste, spoilage, and aroma of the wine. High levels of volatile acid can lead to vinegar-like flavors and aromas. The high levels of volatile acidity are from unhealthy grapes, poor winery hygiene and oxidative processes. Thus, there is a negative correlation between the values.
+Measures gaseous acids impacting taste, spoilage, and aroma of the wine. High levels of volatile acid can lead to vinegar-like flavours and aromas. The high levels of volatile acidity are from unhealthy grapes, poor winery hygiene, and oxidative processes. Thus, there is a negative correlation between the values.
 
 ### Citric Acid
 - Mean: 0.32
 - Range: 0 to 1.66
 - Description:
-Adds freshness and flavour complexity. Citric acid is derived from wine grapes and can be produced in fermentation. Highter citric acid levels are positively associated with higher wine quality ratings.
+Adds freshness and flavor complexity. Citric acid is derived from wine grapes and can be produced in fermentation. Higher citric acid levels are positively associated with higher wine quality ratings.
 
 
 ### Sulphates
@@ -45,13 +45,13 @@ Primarily come from the soil and water used in vineyards, and any salt-based tre
 - Average: 5.44
 - Range: 0.6 to 65.8
 - Description:
-Residual sugar is from the naturally occurring sugars after the fermentation process. The less sugar, the drier the wine. In white wines, the sugar content decreases with the quality of wine. While in red wines, the sugar level stays consistent regardless of the quality. This residual sugar is measured in grams per litre (g/L). Dry wines have less sugar and are generally better quality than the cheaper wines, which are very high in sugar content. However, the sugar content can also vary based on the type of wine. For example, a high-quality White Zinfandel (7.5g/litre) will have more residual sugar in comparison to Sauvignon Blanc which is categorized as a Dry Wine with 3.75g/L residual sugar. For red wine, the sugar level stays consistent regardless of the quality as seen in the graph. That is because the fermentation process and grapes are different than white wine. While making red wine the whole grape is used, compared to when making white wine, only juice from the grapes is used during the fermentation process. There is also less sugar the longer the wine is fermented. Red wine has two fermentation processes while white has one.
+Residual sugar is from the naturally occurring sugars after the fermentation process. The less sugar, the drier the wine. In white wines, the sugar content decreases with the quality of wine. In red wine, the sugar level stays consistent regardless of the quality. This residual sugar is measured in grams per liter (g/L). Dry wines have less sugar and are generally better quality than the cheaper wines, which are very high in sugar content. However, the sugar content can also vary based on the type of wine. For example, a high-quality White Zinfandel (7.5g/liter) will have more residual sugar in comparison to a Sauvignon Blanc which is considered a Dry Wine with 3.75g/L residual sugar. For red wine, the sugar level stays consistent regardless of the quality as seen in the graph. That is because the fermentation process and grapes are different than white wine. While making red wine the whole grape is used, compared to when making white wine, only juice from the grapes is used during the fermentation process. There is also less sugar the longer the wine is fermented. Red wine has two fermentation processes while white has one.
 
 ### pH
 - Average: 3.22
 - Range: 2.72 to 4.01
 - Description:
-Grapes make wine acidic. For wine to have the complexity of favours and composition that it does, it must have a pH between 3 and 4. The pH determines the body of the wine, along with the alcohol content, which correlates to the overall quality of the wine. Concerning our graphs, the quality of wine is on a scale between 3 to 9. Where 3 is the lowest and 9 is the highest quality.  Red wines have higher acidities and improve with time, while low-acidity wines are less stable and more susceptible to microbes. When understanding the body of the wine, red and white wines can be divided into light-bodied, medium-bodied and full-bodied wines. Full-bodied wines are generally depicted as higher quality wines, while light-bodied are lower quality as depicted below. Lower-bodied wines have a higher pH and lower alcohol content, while high-bodied wines have lower acidity and higher alcohol content.
+Grapes make wine acidic. For a wine to have the complexity of flavors and composition that it does, it must have a pH between 3 and 4. The pH determines the body of the wine, along with the alcohol content, which correlates to the overall quality of the wine. Concerning our graphs, the quality of wine is on a scale between 3 to 9. Where 3 is the lowest and 9 is the highest quality.  Red wines have higher acidities and improve with time, while low-acidity wines are less stable and more susceptible to microbes. When understanding the body of the wine, red and white wines can be divided into light-bodied, medium-bodied, and full-bodied wines. Full-bodied wines are generally depicted as higher quality wines, while light-bodied are lower quality as shown below. Lower-bodied wines have a higher pH and lower alcohol content, while high-bodied wines have lower acidity and higher alcohol content.
 
 ### Alcohol
 - Average: 10.49%
@@ -61,7 +61,7 @@ Contributes to the wine’s body and overall quality. The higher alcohol content
 Red wines tend to have higher alcohol content compared to white wines. 
 
 ## Results and Conclusions
-High-quality wines typically exhibit a well-balanced combination of acidity, alcohol, and residual sugar. Fixed acidity and citric acid are crucial for providing structure and freshness, while sulphates and sulfur dioxide help maintain stability and prevent spoilage.
+High-quality wine typically exhibits a well-balanced combination of acidity, alcohol, and residual sugar. Fixed acidity and citric acid are crucial for wine's structure and freshness, while sulphates and sulfur dioxide help maintain stability and prevent spoilage.
 
 ![Red Wine Components Contribution by Percentages](red_wine_components_percentages.png)
 
