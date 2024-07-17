@@ -68,14 +68,15 @@ High-quality wine typically exhibits a well-balanced combination of acidity, alc
 ![White Wine Components Contribution by Percentages](white_wine_components_percentages1.png)
 
 ### Future Research
-If more time were available, future research we could focus on:
-- Analyzing the impact of different grape varieties on wine quality.
+
+- Analyze the impact of different grape varieties based on wine quality.
 - Explore how different climates around the world impact the fixed acidity in wine.
-- Investigating the effects of aging on various wine attributes.
+- Investigate the effects of aging on various wine attributes.
 - Research the financial information on the different wine types.
 - Explore the physiochemical makeup of specific types of wines, for example; White Zinfandel, Sauvignon Blanc, Cabernet Sauvignon, and Pinot Noir.
 
 ### Google Slide Presentation (https://docs.google.com/presentation/d/1sQnuULPuMsbjpVWxsrCdEkvHKYzUZbi5cg-QlzIyACE/edit?usp=sharing)
+
 ## References
 1. UCI Machine Learning Repository. (2009). Wine Quality Dataset. Retrieved from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Wine+Quality).
 2. Wine Folly. (n.d.). Wine Acidity: The Science and Magic. Retrieved from [Wine Folly](https://winefolly.com/tutorial/wine-acidity/).
