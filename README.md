@@ -75,7 +75,7 @@ If more time were available, future research we could focus on:
 - Research the financial information on the different wine types.
 - Explore the physiochemical makeup of specific types of wines, for example; White Zinfandel, Sauvignon Blanc, Cabernet Sauvignon, and Pinot Noir.
 
-### Presentation (https://docs.google.com/presentation/d/1sQnuULPuMsbjpVWxsrCdEkvHKYzUZbi5cg-QlzIyACE/edit?usp=sharing)
+### Google Slide Presentation (https://docs.google.com/presentation/d/1sQnuULPuMsbjpVWxsrCdEkvHKYzUZbi5cg-QlzIyACE/edit?usp=sharing)
 ## References
 1. UCI Machine Learning Repository. (2009). Wine Quality Dataset. Retrieved from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Wine+Quality).
 2. Wine Folly. (n.d.). Wine Acidity: The Science and Magic. Retrieved from [Wine Folly](https://winefolly.com/tutorial/wine-acidity/).
